@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="au.com.cybersearch2.statusbar.example.feature"
+      label="Feature"
+      version="1.0.1.qualifier"
+      provider-name="Cybersearch2 Pty Ltd">
+
+   <description url="http://www.example.com/description">
+      This feature contains an Eclipse E4 RCP application to demonstrate the Statusbar plugin.
+   </description>
+
+   <copyright url="http://www.example.com/copyright">
+      Copyright (C) 2015,2016 Cybersearch2 Pty Ltd
+   </copyright>
+
+   <license url="http://www.example.com/license">
+      This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version. See http://www.gnu.org/licenses/
+   </license>
+
+   <plugin
+         id="au.com.cybersearch2.statusbar.example"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="au.com.cybersearch2.statusbar"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>

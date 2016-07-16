@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Status Bar Example
+Bundle-SymbolicName: au.com.cybersearch2.statusbar.example;singleton:=true
+Bundle-Version: 1.0.1.qualifier
+Bundle-Activator: au.com.cybersearch2.statusbar.example.Activator
+Bundle-Vendor: Cybersearch2 Pty Ltd
+Require-Bundle: javax.inject;bundle-version="0.0.0",
+ org.eclipse.core.runtime;bundle-version="0.0.0",
+ org.eclipse.swt;bundle-version="0.0.0",
+ org.eclipse.e4.ui.model.workbench;bundle-version="0.0.0",
+ org.eclipse.jface;bundle-version="0.0.0",
+ org.eclipse.e4.ui.services;bundle-version="0.0.0",
+ org.eclipse.e4.ui.workbench;bundle-version="0.0.0",
+ org.eclipse.e4.core.di;bundle-version="0.0.0",
+ org.eclipse.e4.ui.di;bundle-version="0.0.0",
+ org.eclipse.e4.core.contexts;bundle-version="0.0.0",
+ org.eclipse.osgi.services;bundle-version="3.5.0",
+ au.com.cybersearch2.statusbar;bundle-version="1.1.0",
+ au.com.cybersearch2.control_factory;bundle-version="1.1.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
+Import-Package: org.eclipse.e4.core.services.events,
+ org.eclipse.e4.core.services.log

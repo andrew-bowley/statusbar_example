@@ -1,0 +1,16 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>statusbar.example.features</artifactId>
+    <version>1.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <parent>
+        <groupId>au.com.cybersearch2</groupId>
+        <artifactId>statusbar.example.root</artifactId>
+        <version>1.0.1-SNAPSHOT</version>
+    </parent>
+
+    <modules>
+        <module>au.com.cybersearch2.statusbar.example.feature</module>
+    </modules>
+</project>

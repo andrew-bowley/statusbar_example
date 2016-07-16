@@ -1,0 +1,11 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>au.com.cybersearch2</groupId>
+        <artifactId>statusbar.example.releng</artifactId>
+        <version>1.0.1-SNAPSHOT</version>
+    </parent>
+    <artifactId>statusbar.example.target</artifactId>
+    <version>1.0.1-SNAPSHOT</version>
+    <packaging>eclipse-target-definition</packaging>
+ </project>

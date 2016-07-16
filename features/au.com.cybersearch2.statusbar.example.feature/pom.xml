@@ -1,0 +1,11 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>au.com.cybersearch2</groupId>
+        <artifactId>statusbar.example.features</artifactId>
+        <version>1.0.1-SNAPSHOT</version>
+    </parent>
+    <artifactId>au.com.cybersearch2.statusbar.example.feature</artifactId>
+    <version>1.0.1-SNAPSHOT</version>
+    <packaging>eclipse-feature</packaging>
+</project>
