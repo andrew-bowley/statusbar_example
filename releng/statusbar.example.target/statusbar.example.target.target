@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?pde version="3.8"?><target name="statusbar.target" sequenceNumber="37">
+<?pde version="3.8"?><target name="statusbar.target" sequenceNumber="43">
 <locations>
 <location includeAllPlatforms="true" includeConfigurePhase="false" includeMode="slicer" includeSource="true" type="InstallableUnit">
 <unit id="org.eclipse.rcp.feature.group" version="4.5.2.v20160212-1500"/>
 <repository location="http://download.eclipse.org/eclipse/updates/4.5"/>
 </location>
 <location includeAllPlatforms="true" includeConfigurePhase="false" includeMode="slicer" includeSource="true" type="InstallableUnit">
-<unit id="au.com.cybersearch2.statusbar.feature.feature.group" version="1.1.0.201607130422"/>
+<unit id="au.com.cybersearch2.statusbar.feature.source.feature.group" version="1.1.0.201607160319"/>
 <unit id="au.com.cybersearch2.control_factory.feature.source.feature.group" version="1.1.0.201607151040"/>
-<unit id="au.com.cybersearch2.statusbar.feature.source.feature.group" version="1.1.0.201607130422"/>
+<unit id="au.com.cybersearch2.statusbar.feature.feature.group" version="1.1.0.201607160319"/>
 <unit id="au.com.cybersearch2.control_factory.feature.feature.group" version="1.1.0.201607151040"/>
-<repository location="file:/E:/git/statusbar/releng/statusbar.site/target/repository/"/>
+<repository location="https://dl.bintray.com/andrew-bowley/generic/Statusbar/V1.1.0/"/>
 </location>
 </locations>
 </target>
