@@ -17,7 +17,7 @@ Here is an example:
 ![Eclipse 4 Model Editor](/images/model-editor.png)
 
  
-For information on Statusbar, go to our [support site] (www.cybersearch2.com.au/eclipse).
+For information on Statusbar, go to our [support site] (http://cybersearch2.com.au/eclipse).
 
 This plugin is a spin off from the development of the Cybertete Rich Client Platform (RCP) Instant Messaging Client
 which is a research project into how to utilize the latest E4 technologies. Statusbar originated as
