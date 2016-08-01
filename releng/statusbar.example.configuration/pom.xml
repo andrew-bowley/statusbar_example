@@ -16,7 +16,7 @@
   <local.deploy.id>pdrone.eb1c2e2e-fc6a-43d9-ba73-2da11dd30218</local.deploy.id>
   <local.deploy.url>http://MicroServer:8098/maven/eb1c2e2e-fc6a-43d9-ba73-2da11dd30218</local.deploy.url>
   <local-repo.id>pdrone.statusbar</local-repo.id>
-  <local-repo.url>http://MicroServer:8098/p2/statusbar/</local-repo.url>
+  <local-repo.url>https://dl.bintray.com/andrew-bowley/generic/Statusbar/V1.1.0/</local-repo.url>
  </properties>
 
  <repositories>
